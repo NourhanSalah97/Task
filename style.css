@@ -1,0 +1,6 @@
+#myCanvas {
+   
+    border: 1px solid black;
+    cursor: crosshair;
+    resize: both;
+}
